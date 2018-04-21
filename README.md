@@ -1,0 +1,2 @@
+# belajarGetChomp
+Tes bahasa Ruby
