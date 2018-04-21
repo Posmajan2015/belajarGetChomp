@@ -1,6 +1,6 @@
 # belajarGetChomp
 
 
-<p>Tes bahasa Ruby</p>
+<b>Tes bahasa Ruby</b>
 
 Materi belajar dari sekolahkoding.com
